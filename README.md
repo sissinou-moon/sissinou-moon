@@ -1,17 +1,18 @@
 <h1>Your Name</h1>
 
+<img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif">
+
 <p>Backend & Desktop Application Developer | Mobile & Web Developer | E-commerce Solutions Expert</p>
 
 <p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
 
-<h2 align="left">🔧 Skills
+<h2>🔧 Skills</h2>
     <ul>
         <li>Backend & API Development (Python, FastAPI, Node.js)</li>
         <li>Desktop Applications (C#, .NET)</li>
         <li>Mobile App Development (Flutter)</li>
         <li>Cloud & Database Solutions (Supabase, Firebase, SQL)</li>
     </ul>
-</h2>
 <h2>📈 Services</h2>
     <ul>
         <li>Custom backend and desktop software solutions</li>
