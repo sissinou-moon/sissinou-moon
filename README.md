@@ -2,20 +2,16 @@
 
 <p>Backend & Desktop Application Developer | Mobile & Web Developer | E-commerce Solutions Expert</p>
 
-<div>
-    <p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
+<p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
 
-<div width=200 align="left">
-    <h2>🔧 Skills</h2>
+<h2 align="left">🔧 Skills
     <ul>
         <li>Backend & API Development (Python, FastAPI, Node.js)</li>
         <li>Desktop Applications (C#, .NET)</li>
         <li>Mobile App Development (Flutter)</li>
         <li>Cloud & Database Solutions (Supabase, Firebase, SQL)</li>
     </ul>
-</div>
-</div>
-
+</h2>
 <h2>📈 Services</h2>
     <ul>
         <li>Custom backend and desktop software solutions</li>
