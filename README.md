@@ -1,5 +1,5 @@
 <h1 align="center">Your Name</h1>
-<p align="center">Backend & Desktop Application Developer | Mobile & Web Developer | E-commerce Solutions Expert</p>
+<p align="center">Backend & Desktop Application Developer | Mobile & Web Developer | E-commerce Solutions Expert | Copywriter</p>
 
 <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" height="300" width="1200" object-fit="cover" align="center">
 
