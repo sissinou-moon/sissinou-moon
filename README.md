@@ -8,7 +8,7 @@
         <li>Backend & API Development (Python, FastAPI, TypeScript, Dart)</li>
         <li>Desktop Applications (Flutter)</li>
         <li>Mobile App Development (Flutter)</li>
-        <li>Cloud & Database Solutions (Supabase, Firebase, ADVENCED SQL)</li>
+        <li>Cloud & Database Solutions (Supabase, Firebase, ADVENCED SQL, Pandas)</li>
     </ul>
 <h2>📈 Services</h2>
     <ul>
