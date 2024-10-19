@@ -2,9 +2,9 @@
 
 <p>Backend & Desktop Application Developer | Mobile & Web Developer | E-commerce Solutions Expert</p>
 
-<p align="left"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
+<p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
 
-<section align="right" width=300>
+<section align="left" width=300>
     <h2>🔧 Skills</h2>
     <ul>
         <li>Backend & API Development (Python, FastAPI, Node.js)</li>
