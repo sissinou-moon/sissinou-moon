@@ -4,7 +4,8 @@
 
 <p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
 
-<div align="left" width=300>
+<div >
+    <p align="right"> <img src="https://i.pinimg.com/enabled/564x/b2/5a/46/b25a464d943d9d0cb1d8be758ff61ab8.jpg" width=300></p>
     <h2>🔧 Skills</h2>
     <ul>
         <li>Backend & API Development (Python, FastAPI, Node.js)</li>
