@@ -3,6 +3,9 @@
 
 <img src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif" height="300" width="1200" object-fit="cover" align="center">
 
+<h2>👑 US</h2>
+    <p> CODILI is a versatile development firm specializing in backend and desktop application development, mobile and web solutions, and e-commerce strategies. Our expert team combines technical prowess with innovative design to create custom software tailored to meet client needs. We focus on delivering seamless user experiences across all platforms, ensuring functionality and performance. In addition, our copywriting services enhance brand messaging and engagement. At CODILI, we are dedicated to driving success for businesses through technology. </p>
+
 <h2>🔧 Skills</h2>
     <ul>
         <li>Backend & API Development (Python, FastAPI, TypeScript, Dart)</li>
