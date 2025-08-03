@@ -8,8 +8,7 @@
 
 <h2>🔧 Skills</h2>
     <ul>
-        <li>Backend & API Development (Python, FastAPI, TypeScript, Dart)</li>
-        <li>Web Applications (Next.JS)</li>
+        <li>Web Applications (Next.JS + Typescript)</li>
         <li>Mobile App Development (Flutter)</li>
         <li>Cloud & Database Solutions (Supabase, Firebase, ADVENCED SQL)</li>
     </ul>
